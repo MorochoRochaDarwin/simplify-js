@@ -17,3 +17,5 @@ Checkout the demo with docs: http://mourner.github.io/simplify-js/
  * C# (Portable): [imshz / simplify-net](https://github.com/imshz/simplify-net) (by Shees Ul-Hassan)
  * Swift: [malcommac / SwiftSimplify](https://github.com/malcommac/SwiftSimplify) (by Daniele Margutti)
  * Unreal Engine: [SINTEF-9012 / SimplifyUnreal](https://github.com/SINTEF-9012/SimplifyUnreal) (by Antoine Pultier)
+ * Dart: [MorochoRochaDarwin / douglas-peucker-dart](https://github.com/MorochoRochaDarwin/douglas-peucker-dart) (by Darwin Morocho)
+
